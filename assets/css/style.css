@@ -776,7 +776,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 .skill-inner-con .foto2{
     animation: right-mover 1s ease-in-out infinite alternate;
     padding-left: 0%;
-    margin-left: 0%;
+    margin-left: -90px;
 }
 .skill-con:after {
     content: "";
