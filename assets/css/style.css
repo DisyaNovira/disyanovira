@@ -618,7 +618,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 .portfolio-con{
     height: auto;
     position: relative;
-    background: #6f34fe;
+    background: rgb(112, 51, 255);
 }
 .portfolio-body-con{
     overflow: hidden;
