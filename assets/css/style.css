@@ -616,7 +616,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 	font-weight: 600;
 }
 .portfolio-con{
-    height: 1200px;
+    height: auto;
     position: relative;
     background: #6f34fe;
 }
