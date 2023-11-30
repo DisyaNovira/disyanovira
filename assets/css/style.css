@@ -1318,21 +1318,30 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
 }
 .testimonials-content h6{
     font-weight: 600;
-    margin-bottom: 14px;
+    margin-bottom: 8px;
+    margin-left: 30px;
+    padding-left: 40px;
 }
 .testimonials-content figure{
     position: absolute;
     margin-top: 9px;
+    padding-right: 30px;
 }
 .testimonials-inner-content{
-    margin-left: 52px;
+    margin-left: 50px;
+    padding-left: 20px;
 }
 
-.testimonials-content
-.testimonials-content h2{
+.testimonials-content{
+
+}
+
+.testimonials-content .hi{
     color: var(--primary-color);
-    font-weight: 700;
-    margin-bottom: 12px;
+    font-weight:800;
+    margin-bottom: 8px;
+    padding-left: 70px;
+    /* margin-left: 30px; */
 }
 .testimonials-content p{
     font-size: 20px;
