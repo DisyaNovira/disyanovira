@@ -1320,7 +1320,7 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     font-weight: 600;
     margin-bottom: 8px;
     margin-left: 30px;
-    padding-left: 40px;
+    padding-left: 30px;
 }
 .testimonials-content figure{
     position: absolute;
@@ -1328,19 +1328,15 @@ background: linear-gradient(33deg, rgba(242,242,255,1) 0%, rgba(235,249,255,1) 1
     padding-right: 30px;
 }
 .testimonials-inner-content{
-    margin-left: 50px;
-    padding-left: 20px;
-}
-
-.testimonials-content{
-
+    margin-left: 30px;
+    padding-left: 30px;
 }
 
 .testimonials-content .hi{
     color: var(--primary-color);
     font-weight:800;
     margin-bottom: 8px;
-    padding-left: 70px;
+    padding-left: 30px;
     /* margin-left: 30px; */
 }
 .testimonials-content p{
